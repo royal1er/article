@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # 1er [Défi de Frontend Mentor](https://www.frontendmentor.io/dashboard)
-=======
-# 1er ![Défi de Frontend Mentor](https://www.frontendmentor.io/dashboard)
->>>>>>> a1ddc82356c1bbfa1391c2b4e038dedc7cc34464
 
 ![Aperçu de la conception pour le défi de codage du composant Aperçu de l'article](./design/desktop-preview.jpg)
 
