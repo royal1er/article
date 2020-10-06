@@ -1,4 +1,4 @@
-# 1er ![Défi de Frontend Mentor](https://www.frontendmentor.io/dashboard)
+# 1er [Défi de Frontend Mentor](https://www.frontendmentor.io/dashboard)
 
 ![Aperçu de la conception pour le défi de codage du composant Aperçu de l'article](./design/desktop-preview.jpg)
 
